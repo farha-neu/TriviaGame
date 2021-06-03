@@ -1,2 +1,2 @@
 # TriviaGame
-Live Preview: https://farha-neu.github.io/TriviaGame/
+Live Preview: https://farhajawed.github.io/TriviaGame/
